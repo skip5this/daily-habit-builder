@@ -1,0 +1,29 @@
+{
+  "name": "Resolution Tracker",
+  "short_name": "Resolutions",
+  "description": "A calm, personal resolution tracker to help you build lasting habits.",
+  "theme_color": "#f7f5f2",
+  "background_color": "#f7f5f2",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
